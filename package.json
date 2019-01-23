@@ -1,0 +1,19 @@
+{
+  "name": "threejsformesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanlyubimov/threeJSForMesh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanlyubimov/threeJSForMesh/issues"
+  },
+  "homepage": "https://github.com/ivanlyubimov/threeJSForMesh#readme"
+}
